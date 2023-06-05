@@ -19,5 +19,6 @@ class Solution:
                     while nums[j-1] == nums[j] and j < n:
                         j += 1
         return lst
+    
 
                     
